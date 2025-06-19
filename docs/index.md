@@ -39,4 +39,4 @@ gh repo create
 - [Playwright MCP server](https://github.com/microsoft/playwright-mcp)
 - [Use MCP servers in VS Code (Preview)](https://code.visualstudio.com/docs/copilot/chat/mcp-servers)
 - [Customize AI responses in VS Code > Prompt files (experimental)](https://code.visualstudio.com/docs/copilot/copilot-customization#_prompt-files-experimental)
-- [Playwright Movies App](https://github.com/debs-obrien/playwright-movies-app)
+- [Letting Playwright MCP Explore your site and Write your Tests](https://dev.to/debs_obrien/letting-playwright-mcp-explore-your-site-and-write-your-tests-mf1)
