@@ -3,10 +3,7 @@
     // Playwright MCP server: https://github.com/microsoft/playwright-mcp
     "playwright": {
       "command": "npx",
-      "args": [
-        "@playwright/mcp@latest",
-        "--vision"
-      ]
-    },
+      "args": ["@playwright/mcp@latest", "--caps=vision"]
+    }
   }
 }
